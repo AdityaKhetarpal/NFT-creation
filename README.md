@@ -25,3 +25,12 @@ cd NFT
 npm init --yes
 npm install --save-dev-hardhat
 ```
+
+In the same directory where you installed Hardhat run:
+
+```shell
+
+npx hardhat
+```
+
+Select `Create a Javascript Project` and follow the steps. At the end, you will have a new Hardhat project ready to go!
